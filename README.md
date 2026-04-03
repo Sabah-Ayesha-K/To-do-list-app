@@ -4,17 +4,17 @@
 This is a full-stack To-Do List web application that allows users to manage their daily tasks efficiently. The application supports creating, viewing, and deleting tasks with data stored in a MySQL database.
 
 🚀**Features**
-➕ Add new tasks
-📋 View all tasks
-❌ Delete tasks
-💾 Persistent storage using MySQL
-🌐 REST API integration between frontend and backend
+* ➕ Add new tasks
+* 📋 View all tasks
+* ❌ Delete tasks
+* 💾 Persistent storage using MySQL
+* 🌐 REST API integration between frontend and backend
 
 🛠️ **Tech Stack**
-**Frontend:** HTML, CSS, JavaScript
-**Backend:** Python (Flask)
-**Database:** MySQL
-**Other Tools:** python-dotenv, Flask-CORS
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Python (Flask)
+* **Database:** MySQL
+* **Other Tools:** python-dotenv, Flask-CORS
 
 ⚙️ **Setup Instructions**
 
