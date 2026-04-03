@@ -40,7 +40,7 @@ This is a full-stack To-Do List web application that allows users to manage thei
 * SELECT * FROM tasks;
 
 **5. Run backend**
-python app.py
+* python app.py
 
 **6. Run frontend**
 Open "index.html" using Live Server.
